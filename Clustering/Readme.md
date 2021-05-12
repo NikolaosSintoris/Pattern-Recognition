@@ -9,7 +9,7 @@ Data Preprocessing
 The data sets we managed, concern binary classification problems ie they contain data from two (2) categories. It's the spam dataset and the occupancy detection dataset.   
   About spam dataset:
    It has a total of 4601 entries (examples) of which the first 1813 are spam category and the remaining 2788 are non-spam category.    
-   Each example has 58 features, where the 58th is the category to which it belongs.
+   Each example has 58 features, where the 58th is the category to which it belongs.   
   About the occupancy detection dataset:
     It has a total of 8143 entries (examples). Each example has 6 features where the
     6th is the category to which it belongs (0 or 1).
